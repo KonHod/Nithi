@@ -7,6 +7,6 @@ public class Error {
         //System.out.println(5/0);
 
         // 3.Logical Error
-        System.out.println(4.0/10);
+        //System.out.println(4.0/10);
     }
 }
